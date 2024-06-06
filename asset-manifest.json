@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//ismailahmed10.github.io/react-weather-app/static/css/main.6c0a7ef8.css",
+    "main.js": "/https//ismailahmed10.github.io/react-weather-app/static/js/main.2c58a291.js",
+    "static/js/453.15c8c274.chunk.js": "/https//ismailahmed10.github.io/react-weather-app/static/js/453.15c8c274.chunk.js",
+    "index.html": "/https//ismailahmed10.github.io/react-weather-app/index.html",
+    "main.6c0a7ef8.css.map": "/https//ismailahmed10.github.io/react-weather-app/static/css/main.6c0a7ef8.css.map",
+    "main.2c58a291.js.map": "/https//ismailahmed10.github.io/react-weather-app/static/js/main.2c58a291.js.map",
+    "453.15c8c274.chunk.js.map": "/https//ismailahmed10.github.io/react-weather-app/static/js/453.15c8c274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0a7ef8.css",
+    "static/js/main.2c58a291.js"
+  ]
+}
